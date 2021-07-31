@@ -47,8 +47,15 @@ Senior Software Engineer at Paladin Analytics
 - If you need a question answered later, use the Padlet link to submit your question
 - Resource sharing will be done on Padlet
 - Slide may not be pretty as you :)
-- 2 Hours is a very very very long time :')
 
+---
+
+<div class="flex items-center justify-center mt-5">
+<div>
+<img src="/images/padlet.png" style="width:400px">
+<p>https://padlet.com/mithushancj/t9cbu7gp9g9ybusy</p>
+</div>
+</div>
 ---
 
 # What we will be discussing
@@ -79,8 +86,16 @@ Hopefully still useful
 ---
 
 <!-- Need to add stuff regarding development -->
-
-
+## Points on focus in no particular order
+- Be curious on something
+- Explore on the possibilities
+- Humble beginnings 
+- Choose your path -  Web , Machine Learning, Android Development ,  iOS Development etc
+- Crash Courses , Documentation, Blogs
+- Do projects personal or paid
+- Get into freelancing early. It's okay to make mistakes
+- Be ready for frustrations and to question your existence
+- Practice on algoritms
 ---
 layout: fact
 ---
